@@ -1,0 +1,46 @@
+﻿<style>
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px; /* Отступы по краям страницы */
+    height: 70vh /* Высота кнопок */
+    }
+
+.big-button {
+    flex: 0 0 50%; /* Ширина кнопок - 20% от ширины контейнера */
+    font-size: 34px; /* Размер текста на кнопках */
+        background-color:  #d19a66; /* Цвет кнопок (можете изменить на свой) */
+    color: white; /* Цвет текста на кнопках */
+    border: none; /* Убираем стандартную рамку */
+    cursor: pointer; /* Указатель курсора при наведении */
+    text-decoration:none;
+    align-items: center;
+    text-align:center;
+        height: 40vh;
+        padding-top: 7%;
+
+    
+}
+
+.big-button:hover {
+            background-color: #343a40; /* Цвет кнопок при наведении */
+            color: white; /* Оставьте цвет текста белым при наведении */
+            text-decoration: none; /*
+    }
+</style>
+<div class="button-container">
+    <a href="@Url.Action("Index", "MastersAdd")" class="big-button me-4">Добавление мастеров</a>
+    <a href="@Url.Action("Index", "Services")" class="big-button me-2">Добавление услуг </a>
+
+</div>

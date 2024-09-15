@@ -1,0 +1,47 @@
+﻿@model IEnumerable<BeautySaloon.Models.Service>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    th, td{
+        color:white;
+    }
+</style>
+<h1>Услуги</h1>
+
+<p>
+    <a asp-action="Create">Добавть услугу</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Название услуги
+            </th>
+            <th>
+               Цена
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редактировать</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Информация</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
