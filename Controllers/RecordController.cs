@@ -42,35 +42,41 @@ namespace BeautySaloon.Controllers
 
             // Генерируем список временных интервалов с 8:00 до 20:00
             Dictionary<Master, Dictionary<DateTime, string>> dict = new Dictionary<Master, Dictionary<DateTime, string>>();
+            List<Master> workingMasters = new List<Master>();
             foreach (var master in masters)
             {
-                var appointmentsOnSelectedDate = await _recordRepository.GetAppointmentsByMasterAndDateAsync(master.Id, selectedDate);
-                var currentTime = selectedDate.Date.AddHours(8); // Начальное время записи
-
-                Dictionary<DateTime, string> d = new Dictionary<DateTime, string>();
-                while (currentTime.Hour < 20) // Пока не достигнем 20:00
+                var isMasterWorking = await _recordRepository.IsMasterWorkingOnDate(selectedDate, master.Id);
+                if (isMasterWorking)
                 {
-                    // Проверяем, занято ли текущее время для данного мастера
-                    if (appointmentsOnSelectedDate.Any(a => a.DateTime.Hour == currentTime.Hour))
-                    {
-                        d.Add(currentTime, "Занято");
-                    }
-                    else
-                    {
-                        d.Add(currentTime, "Свободно");
-                    }
+                    var appointmentsOnSelectedDate = await _recordRepository.GetAppointmentsByMasterAndDateAsync(master.Id, selectedDate);
+                    var currentTime = selectedDate.Date.AddHours(8); // Начальное время записи
 
-                    // Переходим к следующему часу
-                    currentTime = currentTime.AddHours(1);
+                    Dictionary<DateTime, string> d = new Dictionary<DateTime, string>();
+                    while (currentTime.Hour < 20) // Пока не достигнем 20:00
+                    {
+                        // Проверяем, занято ли текущее время для данного мастера
+                        if (appointmentsOnSelectedDate.Any(a => a.DateTime.Hour == currentTime.Hour))
+                        {
+                            d.Add(currentTime, "Занято");
+                        }
+                        else
+                        {
+                            d.Add(currentTime, "Свободно");
+                        }
+
+                        // Переходим к следующему часу
+                        currentTime = currentTime.AddHours(1);
+                    }
+                    dict.Add(master, d);
+                    workingMasters.Add(master);
                 }
-                dict.Add(master, d);
             }
 
             // Создаем модель представления
             var viewModel = new AdminViewModel
             {
                 Services = services,
-                Masters = masters,
+                Masters = workingMasters,
                 Appointments = dict,
                 ServiceId = serviceId,
                 Date = selectedDate

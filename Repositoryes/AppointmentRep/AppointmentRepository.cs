@@ -1,5 +1,4 @@
-﻿//using BeautySaloon.Email;
-using BeautySaloon.Models;
+﻿using BeautySaloon.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BeautySaloon.Repositoryes.AppointmentRep
@@ -27,9 +26,7 @@ namespace BeautySaloon.Repositoryes.AppointmentRep
         }
         public async Task<IEnumerable<DateTime>> GetAvailableTimeSlots(DateTime selectedDate, int masterId)
         {
-            //var appointmentsOnSelectedDate = await _db.Appointment
-            //	.Where(a => a.DateTime.Date == selectedDate.Date && a.MasterService.MasterId == masterId)
-            //	.ToListAsync();
+           
             var appointmentsOnSelectedDate = await _db.Appointment
           .Include(a => a.MasterService)
           .Where(a => a.DateTime.Date == selectedDate.Date && a.MasterService != null && a.MasterService.MasterId == masterId)
@@ -62,31 +59,7 @@ namespace BeautySaloon.Repositoryes.AppointmentRep
             return availableTimeSlots;
         }
 
-        //public async Task<bool> CreateAppointment(int serviceId, int masterId, string nameInput, string phoneInput, DateTime selectedDateTime)
-        //{
-        //	try
-        //	{
-        //		var masterServiceId = await _db.MasterService
-        //			.Where(ms => ms.ServiceId == serviceId && ms.MasterId == masterId)
-        //			.Select(ms => ms.Id)
-        //			.FirstOrDefaultAsync();
-
-        //		Appointment appointment = new Appointment { DateTime = selectedDateTime, MasterServiceId = masterServiceId, ClientName = nameInput, Phone = phoneInput };
-
-        //		_db.Appointment.Add(appointment);
-        //		await _db.SaveChangesAsync();
-
-        //		EmailService email = new EmailService();
-        //		await email.SendMail("krasnovm020@gmail.com", "Запись ", $"Имя клиента: {nameInput} телефон: {phoneInput}  дата и время:{selectedDateTime}");
-
-        //		return true;
-        //	}
-        //	catch (Exception ex)
-        //	{
-        //		throw ex;
-
-        //	}
-        //}
+       
         public async Task<bool> CreateAppointment(int serviceId, int masterId, string nameInput, string phoneInput, int userId, DateTime selectedDateTime)
         {
             try
@@ -101,9 +74,7 @@ namespace BeautySaloon.Repositoryes.AppointmentRep
                 _db.Appointment.Add(appointment);
                 await _db.SaveChangesAsync();
 
-              //  EmailService email = new EmailService();
-               // await email.SendMail("krasnovm020@gmail.com", "Запись ", $"Имя клиента: {nameInput} телефон: {phoneInput}  дата и время:{selectedDateTime}");
-
+             
                 return true;
             }
             catch (Exception ex)
@@ -112,6 +83,7 @@ namespace BeautySaloon.Repositoryes.AppointmentRep
 
             }
         }
+        
     }
 }
 

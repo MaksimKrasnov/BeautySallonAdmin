@@ -3,6 +3,102 @@
   "WorkspaceRootPath": "C:\\AspNet\\Azure\\BeautySallonAdmin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\workschedule\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\workschedule\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\workschedule\\datestablepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\workschedule\\datestablepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\record\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\record\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\mastersadd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\mastersadd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\mastersadd\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\mastersadd\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\views\\editor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:views\\editor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\repositoryes\\services\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:repositoryes\\services\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\repositoryes\\record\\recordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:repositoryes\\record\\recordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\repositoryes\\mastersadd\\masterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:repositoryes\\mastersadd\\masterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\repositoryes\\appointmentrep\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:repositoryes\\appointmentrep\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\repositoryes\\appointmentrep\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:repositoryes\\appointmentrep\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\masterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\masterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\controllers\\workschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:controllers\\workschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +109,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\controllers\\mastersaddcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:controllers\\mastersaddcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|c:\\aspnet\\azure\\beautysallonadmin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C67BF1-272D-4785-A11F-1C713FA40456}|BeautySallonAdmin.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +126,387 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "Controllers\\ServicesController.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAADwv4QAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:59:16.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecordController.cs",
-              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\RecordController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RecordController.cs",
-              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\RecordController.cs",
-              "RelativeToolTip": "Controllers\\RecordController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:57:05.148Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T08:07:15.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\WorkSchedule\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkSchedule\\Index.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\WorkSchedule\\Index.cshtml",
+              "RelativeToolTip": "Views\\WorkSchedule\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:06:57.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DatesTablePartial.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\WorkSchedule\\DatesTablePartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkSchedule\\DatesTablePartial.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\WorkSchedule\\DatesTablePartial.cshtml",
+              "RelativeToolTip": "Views\\WorkSchedule\\DatesTablePartial.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:06:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:06:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Record\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Record\\Index.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Record\\Index.cshtml",
+              "RelativeToolTip": "Views\\Record\\Index.cshtml",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:06:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\MastersAdd\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MastersAdd\\Details.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\MastersAdd\\Details.cshtml",
+              "RelativeToolTip": "Views\\MastersAdd\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:06:00.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\MastersAdd\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\MastersAdd\\Create.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\MastersAdd\\Create.cshtml",
+              "RelativeToolTip": "Views\\MastersAdd\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:05:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:05:37.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Editor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Editor\\Index.cshtml",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Views\\Editor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Editor\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T08:05:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\Services\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Repositoryes\\Services\\ServiceRepository.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\Services\\ServiceRepository.cs",
+              "RelativeToolTip": "Repositoryes\\Services\\ServiceRepository.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:04:58.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecordRepository.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\Record\\RecordRepository.cs",
+              "RelativeDocumentMoniker": "Repositoryes\\Record\\RecordRepository.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\Record\\RecordRepository.cs",
+              "RelativeToolTip": "Repositoryes\\Record\\RecordRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:04:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MasterRepository.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\MastersAdd\\MasterRepository.cs",
+              "RelativeDocumentMoniker": "Repositoryes\\MastersAdd\\MasterRepository.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\MastersAdd\\MasterRepository.cs",
+              "RelativeToolTip": "Repositoryes\\MastersAdd\\MasterRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:04:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\AppointmentRep\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositoryes\\AppointmentRep\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\AppointmentRep\\IAppointmentRepository.cs",
+              "RelativeToolTip": "Repositoryes\\AppointmentRep\\IAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:04:31.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\AppointmentRep\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositoryes\\AppointmentRep\\AppointmentRepository.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Repositoryes\\AppointmentRep\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repositoryes\\AppointmentRep\\AppointmentRepository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:45.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Services.cs",
+              "RelativeDocumentMoniker": "Models\\Services.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Services.cs",
+              "RelativeToolTip": "Models\\Services.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:42.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MasterService.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\MasterService.cs",
+              "RelativeDocumentMoniker": "Models\\MasterService.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\MasterService.cs",
+              "RelativeToolTip": "Models\\MasterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Master.cs",
+              "RelativeDocumentMoniker": "Models\\Master.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Master.cs",
+              "RelativeToolTip": "Models\\Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:27.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:24.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminViewModel.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Models\\AdminViewModel.cs",
+              "RelativeToolTip": "Models\\AdminViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkScheduleController.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\WorkScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkScheduleController.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\WorkScheduleController.cs",
+              "RelativeToolTip": "Controllers\\WorkScheduleController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:03:04.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RecordController.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\RecordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecordController.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\RecordController.cs",
+              "RelativeToolTip": "Controllers\\RecordController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:02:53.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "MastersAddController.cs",
               "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\MastersAddController.cs",
               "RelativeDocumentMoniker": "Controllers\\MastersAddController.cs",
               "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\MastersAddController.cs",
               "RelativeToolTip": "Controllers\\MastersAddController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA3wIEAAABAAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:54:43.644Z",
+              "WhenOpened": "2024-09-16T08:02:47.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:02:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\AspNet\\Azure\\BeautySallonAdmin\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwCEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:02:17.297Z",
               "EditorCaption": ""
             }
           ]

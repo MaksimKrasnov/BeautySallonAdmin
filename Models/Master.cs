@@ -10,6 +10,5 @@
         public virtual ICollection<WorkSchedule> WorkSchedules { get; set; }
 
 
-        // Другие свойства, если необходимо
     }
 }

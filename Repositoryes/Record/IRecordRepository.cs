@@ -14,5 +14,6 @@ namespace BeautySaloon.Repositories
         Task<List<Appointment>> GetAppointmentsByMasterAndDateAsync(int masterId, DateTime selectedDate);
         Task<bool> AppointmentExistsAsync(DateTime selectedDate, int masterId);
         Task DeleteAppointmentAsync(DateTime selectedDate, int masterId);
+        Task<bool> IsMasterWorkingOnDate(DateTime selectedDate, int masterId);
     }
 }

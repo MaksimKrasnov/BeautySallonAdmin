@@ -29,9 +29,9 @@
 
         main {
             flex-grow: 1;
-            background-color: #343a40; /* Эквивалент класса bg-dark в Bootstrap */
+            background-color: #343a40; 
             color: white;
-            padding: 20px; /* Дополнительный отступ, чтобы контент не сливался с краями */
+            padding: 20px; 
         }
 
         .navbar-nav {
@@ -78,7 +78,7 @@
                             <li class="nav-item active"><a asp-controller="Record" asp-action="Index" class="nav-link">Запись</a></li>
                             <li class="nav-item"><a asp-controller="Editor" asp-action="Index" class="nav-link">Редактор</a></li>
                             <li class="nav-item"><a asp-controller="WorkSchedule" asp-action="Index" class="nav-link">График работ</a></li>
-                          @*   <li class="nav-item"><a href="#" class="nav-link">Отчеты</a></li> *@
+                         
                         </ul>
                     </div>
                 </div>
@@ -87,11 +87,7 @@
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
-        @* <footer class="border-top footer text-muted bg-dark text-white">
-            <div class="container">
-                &copy; 2024 - Accent - <a asp-area="" asp-controller="Home" asp-action="Index" class="text-white"></a>
-            </div>
-        </footer> *@
+       
     </div>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

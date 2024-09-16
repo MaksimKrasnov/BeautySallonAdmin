@@ -250,3 +250,4 @@ C:\AspNet\Azure\BeautySallonAdmin\bin\Debug\net8.0\runtimes\win\lib\net7.0\Micro
 C:\AspNet\Azure\BeautySallonAdmin\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\AspNet\Azure\BeautySallonAdmin\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\AspNet\Azure\BeautySallonAdmin\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\AspNet\Azure\BeautySallonAdmin\obj\Debug\net8.0\BeautySallonAdmin.sourcelink.json

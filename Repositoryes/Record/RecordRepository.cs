@@ -59,5 +59,11 @@ namespace BeautySaloon.Repositories
                 await _context.SaveChangesAsync();
             }
         }
+        public async Task<bool> IsMasterWorkingOnDate(DateTime selectedDate, int masterId)
+        {
+            var dateOnly = selectedDate.Date;
+            return await _context.WorkSchedules
+                .AnyAsync(ws => ws.MasterId == masterId && ws.Date == selectedDate.Date && ws.IsWorkingDay);
+        }
     }
 }
